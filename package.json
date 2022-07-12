@@ -29,12 +29,12 @@
   },
   "homepage": "https://github.com/nodebox/g.js",
   "dependencies": {
+    "@xmldom/xmldom": "^0.8.2",
     "async": "^3.2.0",
     "lodash.groupby": "^4.6.0",
     "lodash.reduce": "^4.6.0",
     "lodash.values": "^4.3.0",
-    "stackblur": "^1.0.0",
-    "xmldom": "^0.6.0"
+    "stackblur": "^1.0.0"
   },
   "devDependencies": {
     "browserify": "^17.0.0",

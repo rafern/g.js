@@ -7,7 +7,7 @@
 
 'use strict';
 
-var xmldom = require('xmldom');
+var xmldom = require('@xmldom/xmldom');
 
 var Color = require('../objects/color');
 var Group = require('../objects/group');
